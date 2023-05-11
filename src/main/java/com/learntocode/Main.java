@@ -30,12 +30,12 @@ public class Main {
         int handValue2 = hand2.getValue();
         System.out.println("Hand is worth " + handValue2);
         System.out.println("----------------------------------");
-        if(handValue > handValue2){
+        if(handValue <= 21 && (handValue > handValue2 || handValue2 > 21)){
             System.out.println("Player1 is the winner!");
-        } else if (handValue==handValue2){
-            System.out.println("Tie!");
-        }else{
+        } else if (handValue2 <= 21 && (handValue2 > handValue || handValue > 21)){
             System.out.println("Player 2 is the winner!");
+        }else{
+            System.out.println("Tie!!");
         }
 
     }

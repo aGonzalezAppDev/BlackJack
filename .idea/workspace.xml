@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67e82a7d-386e-44e1-9c82-9de1658792db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/learntocode/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/learntocode/BlackJack.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/learntocode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/learntocode/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
